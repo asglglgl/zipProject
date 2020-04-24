@@ -1,0 +1,43 @@
+﻿  Microsoft (R) Macro Assembler (x64) Version 14.00.24210.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: inffasx64.asm
+  Microsoft (R) Macro Assembler (x64) Version 14.00.24210.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: gvmat64.asm
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  Assembler code may have bugs -- use at your own risk
+  gzclose.c
+  gzlib.c
+  gzread.c
+..\..\..\gzread.c(319): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+..\..\..\gzread.c(400): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+..\..\..\gzread.c(472): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  gzwrite.c
+..\..\..\gzwrite.c(212): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+..\..\..\gzwrite.c(232): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+..\..\..\gzwrite.c(371): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  infback.c
+  inffas8664.c
+  inffast.c
+  Assembler code may have bugs -- use at your own risk
+  inflate.c
+  inftrees.c
+  ioapi.c
+  iowin32.c
+..\..\minizip\iowin32.c(31): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  trees.c
+  uncompr.c
+  zutil.c
+  unzip.c
+  zip.c
+    正在创建库 x64\ZlibDllRelease\zlibwapi.lib 和对象 x64\ZlibDllRelease\zlibwapi.exp
+  正在生成代码
+  All 264 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  zlibvc.vcxproj -> C:\Users\Lenovo\Downloads\zlib-1.2.11\contrib\vstudio\vc14\x64\ZlibDllRelease\zlibwapi.dll
+  zlibvc.vcxproj -> x64\ZlibDllRelease\zlibwapi.pdb (Full PDB)

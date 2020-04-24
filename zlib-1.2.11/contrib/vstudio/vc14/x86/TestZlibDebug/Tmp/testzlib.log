@@ -1,0 +1,18 @@
+﻿  zutil.c
+  uncompr.c
+  trees.c
+  testzlib.c
+  inftrees.c
+  inflate.c
+  inffast.c
+  Assembler code may have bugs -- use at your own risk
+  infback.c
+  deflate.c
+  Assembler code may have bugs -- use at your own risk
+  crc32.c
+  compress.c
+  adler32.c
+  正在生成代码...
+match686.obj : error LNK2026: 模块对于 SAFESEH 映像是不安全的。
+inffas32.obj : error LNK2026: 模块对于 SAFESEH 映像是不安全的。
+x86\TestZlibDebug\testzlib.exe : fatal error LNK1281: 无法生成 SAFESEH 映像。
